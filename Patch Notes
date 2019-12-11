@@ -1,0 +1,25 @@
+Versão Atual 2.2.0
+
+Atualização 2.2.0 : Astolfinhos arrastaveis
+
+Astolfinhos agora são arrastaveis
+Astolfinhos ao serem arrastados trocam o icone de acordo com a tela
+Astolfinhos ao serem arrastados crescem e diminuem ao serem soltos*
+Astolfinhos ao serem arrastados na segunda tela agora tem icone exclusivo
+Astolfinhos ao serem segurados na segunda tela agora tocam musica (e tem 2 musicas proprias)
+
+* : Causa bugs
+
+Bugs conhecidos:
+
+* : É possivel segurar mais de um astolfinho ao mesmo tempo, e isso faz com que um cresça e o outro diminua
+* : Ao segurar o astolfinho e girar a tela onUp(Função para resetar o estado atual do astolfinho) não é executada
+
+Ambos Bugs são arrumados ao girar a tela uma ou mais vezes
+ambos Bugs serão arrumados em versões futuras
+
+Grato , Ponkan 
+
+Atualizado ultima vez 10/12/2019 as 23:34
+
+Infelizmente não existem patch notes anteriores
