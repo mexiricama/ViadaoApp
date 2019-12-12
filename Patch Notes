@@ -4,12 +4,12 @@ Atualizado ultima vez 11/12/2019 as 22:05
 _________________________________________________________________________________________________________________________________________
 𝐀𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜̧𝐚̃𝐨 𝟐.𝟐.𝟏 : 𝐁𝐮𝐠𝐟𝐢𝐱 𝐞 𝐦𝐞𝐥𝐡𝐨𝐫𝐢𝐚𝐬
 
-Agora ao tocar em 2 astolfinhos a musica não pausa e nem reinicia, ela só reinicia ao soltar todos os Astolfinhos
+Agora ao tocar em 2 astolfinhos ou mais a musica não pausa e nem reinicia, ela só reinicia ao soltar todos os Astolfinhos
 Ao girar a tela a musica do Astolfinho para e ao pausar também
 
 Bugs Corrigidos:
 
-Tocar em 2 astolfinhos ao mesmo tempo bugava o app
+Tocar em 2 astolfinhos ou mais ao mesmo tempo bugava o app
 Tocar no astolfinho e girar a tela onUp não era contabilizado
 
 Novos bugs:
