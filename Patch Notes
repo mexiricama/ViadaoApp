@@ -1,6 +1,23 @@
-Versão Atual 2.2.0
+Atualizado ultima vez 11/12/2019 as 22:05
 
-Atualização 2.2.0 : Astolfinhos arrastaveis
+𝐕𝐞𝐫𝐬𝐚̃𝐨 𝐀𝐭𝐮𝐚𝐥 𝟐.𝟐.𝟏
+_________________________________________________________________________________________________________________________________________
+𝐀𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜̧𝐚̃𝐨 𝟐.𝟐.𝟏 : 𝐁𝐮𝐠𝐟𝐢𝐱 𝐞 𝐦𝐞𝐥𝐡𝐨𝐫𝐢𝐚𝐬
+
+Agora ao tocar em 2 astolfinhos a musica não pausa e nem reinicia, ela só reinicia ao soltar todos os Astolfinhos
+Ao girar a tela a musica do Astolfinho para e ao pausar também
+
+Bugs Corrigidos:
+
+Tocar em 2 astolfinhos ao mesmo tempo bugava o app
+Tocar no astolfinho e girar a tela onUp não era contabilizado
+
+Novos bugs:
+
+A musica na segunda tela as vezes não toca
+A musica dos astolfinhos as vezes não toca
+_________________________________________________________________________________________________________________________________________
+𝐀𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜̧𝐚̃𝐨 𝟐.𝟐.𝟎 : 𝐀𝐬𝐭𝐨𝐥𝐟𝐢𝐧𝐡𝐨𝐬 𝐚𝐫𝐫𝐚𝐬𝐭𝐚𝐯𝐞𝐢𝐬
 
 Astolfinhos agora são arrastaveis
 Astolfinhos ao serem arrastados trocam o icone de acordo com a tela
@@ -19,7 +36,5 @@ Ambos Bugs são arrumados ao girar a tela uma ou mais vezes
 ambos Bugs serão arrumados em versões futuras
 
 Grato , Ponkan 
-
-Atualizado ultima vez 10/12/2019 as 23:48
-
+_________________________________________________________________________________________________________________________________________
 Infelizmente não existem patch notes anteriores
